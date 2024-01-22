@@ -103,7 +103,7 @@ print("║╔═╗║    ║║ ╔╗║╔╗║╚ ╗║ ║╚╝║║╔
 print("║╚═╝║    ║╚═╝║║║║║║╚╝╚╗║║║║║╚╝║║║═╣║║ ╠══║")
 print("╚═══╝    ╚═══╝╚╝╚╝╚═══╝╚╩╩╝╚══╝╚══╝╚╝ ╚══╝")
 print("Game created by jonas525")
-print("Dowloaded form: https://github.com/jonas525/6-chambers")
+print("Downloaded from: https://github.com/jonas525/6-chambers")
 print("------------------------------------------------------")
 while True:
     time.sleep(1)
